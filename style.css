@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 p{
     
     margin-left: 10px;
@@ -53,3 +54,35 @@ img{
     text-align: right;
 }
 >>>>>>> 4639a1b (work)
+=======
+body{
+    background-color: gray;
+}
+.bg{
+    background-color: rgb(211, 3, 3);height: 70px;
+    text-align: left;
+    margin-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+.bg2{
+    background-color: white;
+    text-align: left;
+    border: 1px solid black;
+    margin-top: -15px;
+    padding: 6px;
+}
+.img1{
+    margin-top: 10px;
+   border: 1px solid black;
+   height:  max-content;
+   width: 625px;
+   background-color: rgb(177, 171, 171);
+}
+img{
+    float: left;
+}
+.text{
+    font-size: 20px;
+}
+>>>>>>> 9f9252a ( file added)
